@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2016-11-30 08:50:19
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.1.1
+WORDPRESS:	4.6.1
+PHP INFO:	5.6.24 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (256M default) 
+RUN TYPE: Manual
+MEMORY STACK: 36.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:46 | filtered:0 | create:46 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+SQL CREATED: themexperience_583e92bf7542d_20161130085007_database.sql 
+SQL FILE SIZE: 6.92MB 
+SQL FILE TIME: 2016-11-30 08:50:19 
+SQL RUNTIME: 0.34 sec. 
+MEMORY STACK: 36.25MB 
+
+******************************************************************************** 
+ARCHIVE  Type=ZIP Mode=Shell 
+******************************************************************************** 
+ARCHIVE DIR:  /home/wp_zdbk8r/themexperience.com 
+ARCHIVE FILE: themexperience_583e92bf7542d_20161130085007_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	304.84MB 
+STATS:	Dirs 1,252 | Files 10,569 | Total 11,821 
+COMPRESSED SIZE: 307.73MB 
+ARCHIVE RUNTIME: 3.16 sec. 
+MEMORY STACK: 40.75MB 
+
+******************************************************************************** 
+MAKE LEGACY INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Prepping for use 
+Template parsed with new data 
+Complete [/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_installer-legacy.php] 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 6.92MB 
+INSTALLER FILE: 11.76KB 
+ARCHIVE FILE: 316.99MB  
+EXPECTED FILE/DIRECTORY COUNT: 11,821 
+ACTUAL FILE/DIRECTORY COUNT: 11,822 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 7.18 sec.
+PEAK PHP MEMORY USED: 43.25MB
+DONE PROCESSING => themexperience 2016-11-30 08:50:26
+ 

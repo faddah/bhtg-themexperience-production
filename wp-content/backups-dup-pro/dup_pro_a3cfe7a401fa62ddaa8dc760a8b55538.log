@@ -1,0 +1,457 @@
+[30 Nov 08:48:32] DUP_PRO | a47dc5be | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:48:32] DUP_PRO | a47dc5be | DUP_PRO_System_Checker::check() | Doing system checker check because time = 1480495712 and last timestamp = 0 
+[30 Nov 08:48:32] DUP_PRO | a47dc5be | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:48:33] DUP_PRO | a47dc5be | DUP_PRO_License_Utility::get_license_status() | Uncaching license because current time = 1480495713 and expiration time = 1480495702 
+[30 Nov 08:48:33] DUP_PRO | a47dc5be | DUP_PRO_License_Utility::get_license_status() | retrieving live license status 
+[30 Nov 08:48:33] DUP_PRO | a47dc5be | DUP_PRO_License_Utility::get_license_status() | Set cached value from with expiration 1209600 seconds from now (1481705313) 
+[30 Nov 08:48:42] DUP_PRO | 986f67c4 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:48:42] DUP_PRO | 986f67c4 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:48:42] DUP_PRO | 986f67c4 | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:48:43] DUP_PRO | 986f67c4 | DUP_PRO_U::log_object() | orphaned filepaths<br\> 
+[30 Nov 08:48:43] DUP_PRO | 986f67c4 | DUP_PRO_U::log_object() | Array
+(
+)
+ 
+[30 Nov 08:48:45] DUP_PRO | f500a3f3 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:48:45] DUP_PRO | f500a3f3 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:48:51] DUP_PRO | a374757d | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:48:51] DUP_PRO | a374757d | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:48:51] DUP_PRO | a374757d | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:48:52] DUP_PRO | a374757d | DUP_PRO_License_Utility::get_license_status() | forcing live license update 
+[30 Nov 08:48:52] DUP_PRO | a374757d | DUP_PRO_License_Utility::get_license_status() | retrieving live license status 
+[30 Nov 08:48:52] DUP_PRO | a374757d | DUP_PRO_License_Utility::get_license_status() | Set cached value from with expiration 1209600 seconds from now (1481705332) 
+[30 Nov 08:49:02] DUP_PRO | 7a88e01f | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:02] DUP_PRO | 7a88e01f | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:49:02] DUP_PRO | 7a88e01f | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:49:02] DUP_PRO | 7a88e01f | DUP_PRO_License_Utility::change_license_activation() | Wordpress agent string WordPress/4.6.1 
+[30 Nov 08:49:03] DUP_PRO | 7a88e01f | DUP_PRO_License_Utility::change_license_activation() | Activated license d69259f2df262346ffa4d3eb8139cfe6 
+[30 Nov 08:49:03] DUP_PRO | 7a88e01f | DUP_PRO_License_Utility::get_license_status() | forcing live license update 
+[30 Nov 08:49:03] DUP_PRO | 7a88e01f | DUP_PRO_License_Utility::get_license_status() | retrieving live license status 
+[30 Nov 08:49:04] DUP_PRO | 7a88e01f | DUP_PRO_U::log_object() | license data returned<br\> 
+[30 Nov 08:49:04] DUP_PRO | 7a88e01f | DUP_PRO_U::log_object() | stdClass Object
+(
+    [success] => 1
+    [license] => valid
+    [item_name] => Duplicator+Pro
+    [expires] => 2017-10-04 23:59:59
+    [payment_id] => 57761
+    [customer_name] => Faddah Wolf
+    [customer_email] => my_biz@me.com
+    [license_limit] => 3
+    [site_count] => 2
+    [activations_left] => 1
+)
+ 
+[30 Nov 08:49:04] DUP_PRO | 7a88e01f | DUP_PRO_License_Utility::get_license_status() | Set cached value from with expiration 1209600 seconds from now (1481705344) 
+[30 Nov 08:49:28] DUP_PRO | 8f90fbbe | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:28] DUP_PRO | 8f90fbbe | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:49:46] DUP_PRO | 7303d750 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:46] DUP_PRO | 7303d750 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:49:46] DUP_PRO | 7303d750 | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:49:46] DUP_PRO | 7303d750 | DUP_PRO_U::log_object() | orphaned filepaths<br\> 
+[30 Nov 08:49:46] DUP_PRO | 7303d750 | DUP_PRO_U::log_object() | Array
+(
+)
+ 
+[30 Nov 08:49:49] DUP_PRO | 82556585 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:49] DUP_PRO | 82556585 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:49:51] DUP_PRO | 032d3ff9 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:51] DUP_PRO | 032d3ff9 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:49:51] DUP_PRO | 032d3ff9 | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:49:57] DUP_PRO | 51699986 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:49:57] DUP_PRO | 51699986 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:03] DUP_PRO | cb47a471 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:03] DUP_PRO | cb47a471 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:05] DUP_PRO | 1d1e476c | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:05] DUP_PRO | 1d1e476c | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:06] DUP_PRO | 9b8a35c2 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:06] DUP_PRO | 9b8a35c2 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:06] DUP_PRO | 9b8a35c2 | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:50:07] DUP_PRO | 9b8a35c2 | DUP_PRO_Package::add_upload_infos() | adding upload infos 
+[30 Nov 08:50:07] DUP_PRO | 9b8a35c2 | DUP_PRO_Package::add_upload_infos() | upload infos added:1 
+[30 Nov 08:50:09] DUP_PRO | bbf98473 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:09] DUP_PRO | bbf98473 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_Web_Services::duplicator_pro_package_scan() | File lock acquired 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_Package::create_scan_report() | Scanning 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | Filter files<br\> 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() |  
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | filter dirs array<br\> 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | Array
+(
+    [0] => /home/wp_zdbk8r/themexperience.com/wp-snapshots
+    [1] => /home/wp_zdbk8r/themexperience.com/wp-content/ai1wm-backups
+    [2] => /home/wp_zdbk8r/themexperience.com/wp-content/backupwordpress
+    [3] => /home/wp_zdbk8r/themexperience.com/wp-content/content/cache
+    [4] => /home/wp_zdbk8r/themexperience.com/wp-content/contents/cache
+    [5] => /home/wp_zdbk8r/themexperience.com/wp-content/infinitewp/backups
+    [6] => /home/wp_zdbk8r/themexperience.com/wp-content/managewp/backups
+    [7] => /home/wp_zdbk8r/themexperience.com/wp-content/old-cache
+    [8] => /home/wp_zdbk8r/themexperience.com/wp-content/plugins/all-in-one-wp-migration/storage
+    [9] => /home/wp_zdbk8r/themexperience.com/wp-content/updraft
+    [10] => /home/wp_zdbk8r/themexperience.com/wp-content/wishlist-backup
+    [11] => /home/wp_zdbk8r/themexperience.com/wp-content/wfcache
+    [12] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/aiowps_backups
+    [13] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/backupbuddy_temp
+    [14] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/backupbuddy_backups
+    [15] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/ithemes-security/backups
+    [16] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/mainwp/backup
+    [17] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/pb_backupbuddy
+    [18] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/snapshots
+    [19] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/sucuri
+    [20] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/wp-clone
+    [21] => /home/wp_zdbk8r/themexperience.com/wp-content/uploads/wp_all_backup
+    [22] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro
+)
+ 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | filter exts array<br\> 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | Array
+(
+)
+ 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | filter files array<br\> 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_U::log_object() | Array
+(
+    [0] => error_log
+    [1] => error.log
+    [2] => debug_log
+    [3] => ws_ftp.log
+    [4] => dbcache
+    [5] => pgcache
+    [6] => objectcache
+)
+ 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_Package::create_scan_report() | Doing PHP JSON encode 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_Package::create_scan_report() | TOTAL SCAN TIME = 0 
+[30 Nov 08:50:10] DUP_PRO | bbf98473 | DUP_PRO_Web_Services::duplicator_pro_package_scan() | File lock released 
+[30 Nov 08:50:15] DUP_PRO | 93652fce | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:15] DUP_PRO | 93652fce | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:15] DUP_PRO | 93652fce | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_Build_Progress::set_build_mode() | set build mode 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_Build_Progress::set_build_mode() | shell exec is global setting so setting this package to shell exec 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_Package::save() | inserted properly now saving 1 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_U::log_object() | orphaned filepaths<br\> 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_U::log_object() | Array
+(
+)
+ 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_Package::get_local_package_file() | Archive requested 
+[30 Nov 08:50:16] DUP_PRO | 93652fce | DUP_PRO_Package::get_local_package_file() | Installer requested 
+[30 Nov 08:50:18] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:18] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:18] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::init 
+[30 Nov 08:50:18] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:18] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:18] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:18] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | PACKAGE 1:BUILDING 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package::build() | Main build step 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Build_Progress::set_build_mode() | set build mode 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Build_Progress::set_build_mode() | Build mode already set to 1 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package::build() | ID non zero so setting to start 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Database::Build() | Building database 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Database::mysqlDump() | Executing mysql dump command '/usr/bin/mysqldump' --no-create-db --single-transaction --hex-blob --skip-add-drop-table -u 'themexperienceco' -p'jgX4wXDp' -h 'mysql.themexperience.com' -r '/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_database.sql' 'themexperience_com' 2>&1 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Database::Build() | Done building database 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package::build() | Set db built for package 1 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | BUILD TIME=0 seconds 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::process 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:19] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | PACKAGE 1:BUILDING 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Package::build() | Main build step 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Archive::build() | Building archive 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_Archive::build() | Doing shell exec zip 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-snapshots/ for /home/wp_zdbk8r/themexperience.com/wp-snapshots relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/ai1wm-backups for /home/wp_zdbk8r/themexperience.com/wp-content/ai1wm-backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/backupwordpress for /home/wp_zdbk8r/themexperience.com/wp-content/backupwordpress relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/content/cache for /home/wp_zdbk8r/themexperience.com/wp-content/content/cache relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/contents/cache for /home/wp_zdbk8r/themexperience.com/wp-content/contents/cache relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/infinitewp/backups for /home/wp_zdbk8r/themexperience.com/wp-content/infinitewp/backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/managewp/backups for /home/wp_zdbk8r/themexperience.com/wp-content/managewp/backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/old-cache for /home/wp_zdbk8r/themexperience.com/wp-content/old-cache relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/plugins/all-in-one-wp-migration/storage for /home/wp_zdbk8r/themexperience.com/wp-content/plugins/all-in-one-wp-migration/storage relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/updraft for /home/wp_zdbk8r/themexperience.com/wp-content/updraft relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/wishlist-backup for /home/wp_zdbk8r/themexperience.com/wp-content/wishlist-backup relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/wfcache/ for /home/wp_zdbk8r/themexperience.com/wp-content/wfcache relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/aiowps_backups for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/aiowps_backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/backupbuddy_temp for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/backupbuddy_temp relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/backupbuddy_backups for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/backupbuddy_backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/ithemes-security/backups for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/ithemes-security/backups relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/mainwp/backup for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/mainwp/backup relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/pb_backupbuddy for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/pb_backupbuddy relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/snapshots for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/snapshots relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/sucuri for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/sucuri relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/wp-clone for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/wp-clone relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/uploads/wp_all_backup for /home/wp_zdbk8r/themexperience.com/wp-content/uploads/wp_all_backup relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Adding relative filter dir wp-content/backups-dup-pro/ for /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro relative to /home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=error_log relative=../../../../error_log compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=error.log relative=../../../../error.log compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=debug_log relative=../../../../debug_log compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=ws_ftp.log relative=../../../../ws_ftp.log compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=dbcache relative=../../../../dbcache compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=pgcache relative=../../../../pgcache compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Full file=objectcache relative=../../../../objectcache compressDir=/home/wp_zdbk8r/themexperience.com 
+[30 Nov 08:50:21] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Executing shellzip command cd '/home/wp_zdbk8r/themexperience.com' && zip -0 -rq '/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_archive.zip' ./ -x wp-snapshots/**\* wp-snapshots/ wp-content/ai1wm-backups**\* wp-content/ai1wm-backups wp-content/backupwordpress**\* wp-content/backupwordpress wp-content/content/cache**\* wp-content/content/cache wp-content/contents/cache**\* wp-content/contents/cache wp-content/infinitewp/backups**\* wp-content/infinitewp/backups wp-content/managewp/backups**\* wp-content/managewp/backups wp-content/old-cache**\* wp-content/old-cache wp-content/plugins/all-in-one-wp-migration/storage**\* wp-content/plugins/all-in-one-wp-migration/storage wp-content/updraft**\* wp-content/updraft wp-content/wishlist-backup**\* wp-content/wishlist-backup wp-content/wfcache/**\* wp-content/wfcache/ wp-content/uploads/aiowps_backups**\* wp-content/uploads/aiowps_backups wp-content/uploads/backupbuddy_temp**\* wp-content/uploads/backupbuddy_temp wp-content/uploads/backupbuddy_backups**\* wp-content/uploads/backupbuddy_backups wp-content/uploads/ithemes-security/backups**\* wp-content/uploads/ithemes-security/backups wp-content/uploads/mainwp/backup**\* wp-content/uploads/mainwp/backup wp-content/uploads/pb_backupbuddy**\* wp-content/uploads/pb_backupbuddy wp-content/uploads/snapshots**\* wp-content/uploads/snapshots wp-content/uploads/sucuri**\* wp-content/uploads/sucuri wp-content/uploads/wp-clone**\* wp-content/uploads/wp-clone wp-content/uploads/wp_all_backup**\* wp-content/uploads/wp_all_backup wp-content/backups-dup-pro/**\* wp-content/backups-dup-pro/ "../../../../error_log" "../../../../error.log" "../../../../debug_log" "../../../../ws_ftp.log" "../../../../dbcache" "../../../../pgcache" "../../../../objectcache" wp-content/backups-dup-pro/**\*  2>&1 
+[30 Nov 08:50:23] DUP_PRO | 2ffb3c10 | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:24] DUP_PRO | b5411db4 | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:24] DUP_PRO | b5411db4 | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | After shellzip command 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | Stderr is null 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | zipinfo exists 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_ShellZip::Create() | archive file count from shellzip is 11822 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Archive::build() | filesize of zip = 319646187 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Archive::build() | Done building archive 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | BUILD TIME=3 seconds 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::process 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:24] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | PACKAGE 1:BUILDING 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package::build() | Main build step 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::Build() | building installer 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::create_enhanced_installer() | #### replacing @@ARCHIVE with themexperience_583e92bf7542d_20161130085007_archive.zip 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_U::log_object() | json<br\> 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_U::log_object() | {"created":"2016-11-30 08:50:07","version_dup":"3.1.1","version_wp":"4.6.1","version_db":"5.6.28","version_php":"5.6.24","version_os":"Linux","secure_on":0,"secure_pass":"","skipscan":0,"wp_tableprefix":"wp_kva73a_","blogname":"The M Experience","dbhost":"","dbname":"","dbuser":"","dbpass":"","cpnl_dbname":"","cpnl_host":"","cpnl_user":"","cpnl_pass":"","cpnl_enable":0,"cpnl_connect":false,"cpnl_dbaction":"create","cpnl_dbhost":"","cpnl_dbuser":"","ssl_admin":0,"ssl_login":0,"cache_wp":0,"cache_path":0,"wproot":"\/home\/wp_zdbk8r\/themexperience.com\/","url_old":"http:\/\/www.themexperience.com","url_new":"","mu_mode":0,"opts_delete":"[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]","installer_base_name":"installer.php","package_name":"themexperience_583e92bf7542d_20161130085007_archive.zip","package_notes":""} 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::add_extra_files() | Doing archive file check 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::add_extra_files() | Add extra files: Current build mode = 1 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::add_extra_files_using_shellexec() | Executing Shell Exec Zip Stage 1 to add extras: cd '/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/extras' && zip -0 -g -rq '/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_archive.zip' ./* 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::add_extra_files_using_shellexec() | Executing extra count string unzip -Z1 '/home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_archive.zip' | grep 'installer-backup.php\|installer-legacy.php\|scan.json\|database.sql\|archive.cfg' | wc -l 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Installer::add_extra_files_using_shellexec() | Core extra files confirmed to be in the archive 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | BUILD TIME=0 seconds 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::process 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:25] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:25] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:25] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | PACKAGE 1:BUILDING 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build() | Main build step 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build_integrity_check() | Archive file count is 11822 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build_integrity_check() | ***********Does /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/tmp/themexperience_583e92bf7542d_20161130085007_scan.json exist? 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build_integrity_check() | Expected filecount = 11821 and archive filecount=11822 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build_integrity_check() | Warn/unread counts) warnfile:0 warndir:0 unreadfile:0 unreaddir:0 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build_integrity_check() | Straight ratio is 0.99991541194383 and warning ratio is 0.99991541194383. # Expected=11821 # Warning=0 and #Archive File 11822 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package::build() | Done package building 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | BUILD TIME=0 seconds 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::process 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:26] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | PACKAGE 1:STORAGE PROCESSING 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package::process_storages() | Processing storages 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package::process_storages() | upload loop 1 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package::process_storages() | upload loop 4 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package::process_storages() | upload loop 5 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package::process_storages() | telling storage id -2 to process 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Storage_Entity::process_package() | Storage Default process 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Storage_Entity::copy_to_local() | copying to local 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | STORAGE CHUNK PROCESSING TIME=0 seconds 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::kick_off_worker() | Kicking off worker process as requested by DUP_PRO_Package_Runner::process 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::kick_off_worker() | Attempting to use ajax url http://www.themexperience.com/wp-admin/admin-ajax.php 
+[30 Nov 08:50:28] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::kick_off_worker() | KICKOFF: Server Side 
+[30 Nov 08:50:29] DUP_PRO | e15ea994 | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:29] DUP_PRO | e15ea994 | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:30] DUP_PRO | 383714f7 | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:30] DUP_PRO | 383714f7 | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Web_Services::process_worker() | Process worker request 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | PROCESS: From server 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | File lock acquired 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | PACKAGE 1:PROCESSING 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | PACKAGE 1:STORAGE PROCESSING 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package::process_storages() | Processing storages 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Package::process_storages() | upload loop 1 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Storage_Entity::purge_old_local_packages() | pushing /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_archive.zip 
+[30 Nov 08:50:30] DUP_PRO | 420f6c6b | DUP_PRO_Storage_Entity::purge_old_local_packages() | Num zip files to delete=-19 
+[30 Nov 08:50:31] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | STORAGE CHUNK PROCESSING TIME=1 seconds 
+[30 Nov 08:50:31] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | PACKAGE 1 COMPLETE 
+[30 Nov 08:50:31] DUP_PRO | 420f6c6b | DUP_PRO_Package_Runner::process() | File lock released 
+[30 Nov 08:50:31] DUP_PRO | 420f6c6b | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:31] DUP_PRO | ef306cbe | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:31] DUP_PRO | ef306cbe | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:31] DUP_PRO | 3db98a0c | DUP_PRO_Package_Runner::kick_off_worker() | after sent kickoff request 
+[30 Nov 08:50:31] DUP_PRO | 3db98a0c | DUP_PRO_Web_Services::process_worker() | Exiting process worker request 
+[30 Nov 08:50:34] DUP_PRO | b6730412 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:34] DUP_PRO | b6730412 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:35] DUP_PRO | 7d2fd7b7 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:35] DUP_PRO | 7d2fd7b7 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:50:35] DUP_PRO | 7d2fd7b7 | DUP_PRO_Package_Runner::init() | ************kicking off slug worker 
+[30 Nov 08:50:38] DUP_PRO | 7d2fd7b7 | DUP_PRO_U::log_object() | orphaned filepaths<br\> 
+[30 Nov 08:50:38] DUP_PRO | 7d2fd7b7 | DUP_PRO_U::log_object() | Array
+(
+    [0] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_archive.zip
+    [1] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_database.sql
+    [2] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_scan.json
+    [3] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_installer.php
+    [4] => /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_installer-legacy.php
+)
+ 
+[30 Nov 08:50:38] DUP_PRO | 7d2fd7b7 | DUP_PRO_Package::get_local_package_file() | Archive requested 
+[30 Nov 08:50:38] DUP_PRO | 7d2fd7b7 | DUP_PRO_Package::get_local_package_file() | Installer requested 
+[30 Nov 08:50:40] DUP_PRO | e845788a | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:50:40] DUP_PRO | e845788a | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:51:15] DUP_PRO | 997072a6 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:51:15] DUP_PRO | 997072a6 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:51:15] DUP_PRO | 997072a6 | DUP_PRO_Web_Services::get_package_file() | get_package_file() 
+[30 Nov 08:51:15] DUP_PRO | 997072a6 | DUP_PRO_Package::get_local_package_file() | Installer requested 
+[30 Nov 08:51:15] DUP_PRO | 997072a6 | DUP_PRO_Web_Services::get_package_file() | streaming /home/wp_zdbk8r/themexperience.com/wp-content/backups-dup-pro/themexperience_583e92bf7542d_20161130085007_installer.php 
+[30 Nov 08:51:41] DUP_PRO | bfc3cb8f | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:51:41] DUP_PRO | bfc3cb8f | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:51:41] DUP_PRO | 749f182a | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:51:41] DUP_PRO | 749f182a | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:52:41] DUP_PRO | b6e6ef15 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:52:41] DUP_PRO | b6e6ef15 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:52:42] DUP_PRO | fb2e4e1e | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:52:42] DUP_PRO | fb2e4e1e | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:53:42] DUP_PRO | 4aef9c40 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:53:42] DUP_PRO | 4aef9c40 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:53:43] DUP_PRO | 07273d4b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:53:43] DUP_PRO | 07273d4b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:54:43] DUP_PRO | f66675f7 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:54:43] DUP_PRO | f66675f7 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:54:44] DUP_PRO | 203f96ea | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:54:44] DUP_PRO | 203f96ea | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:55:46] DUP_PRO | 8bdbc8cc | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:55:46] DUP_PRO | 8bdbc8cc | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:56:44] DUP_PRO | 9aaec980 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:56:44] DUP_PRO | 9aaec980 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:56:46] DUP_PRO | ce7d59ca | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:56:46] DUP_PRO | ce7d59ca | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:57:48] DUP_PRO | d3166935 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:57:48] DUP_PRO | d3166935 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:58:45] DUP_PRO | 5e457b2d | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:58:45] DUP_PRO | 5e457b2d | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:58:48] DUP_PRO | c003a64e | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:58:48] DUP_PRO | c003a64e | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:48] DUP_PRO | f68a5ac8 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:48] DUP_PRO | f68a5ac8 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:48] DUP_PRO | cfd5cdf5 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:48] DUP_PRO | cfd5cdf5 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:49] DUP_PRO | 04891e50 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:49] DUP_PRO | 04891e50 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:49] DUP_PRO | 3dd6896d | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:49] DUP_PRO | 3dd6896d | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:50] DUP_PRO | 0b38ace5 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:50] DUP_PRO | 0b38ace5 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:50] DUP_PRO | 0b38ace5 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:50] DUP_PRO | 0b38ace5 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:51] DUP_PRO | c0647f40 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:51] DUP_PRO | c0647f40 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:52] DUP_PRO | 46f00dee | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:52] DUP_PRO | 46f00dee | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:53] DUP_PRO | 8dacde4b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:53] DUP_PRO | 8dacde4b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:53] DUP_PRO | 8dacde4b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:53] DUP_PRO | 8dacde4b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:54] DUP_PRO | 90a9eef3 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:54] DUP_PRO | 90a9eef3 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 08:59:55] DUP_PRO | 5bf53d56 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 08:59:55] DUP_PRO | 5bf53d56 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:00:49] DUP_PRO | b30aabaa | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:00:49] DUP_PRO | b30aabaa | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:00:49] DUP_PRO | 17fdeb09 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:00:49] DUP_PRO | 17fdeb09 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:00:50] DUP_PRO | f92e2273 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:00:50] DUP_PRO | f92e2273 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:01:52] DUP_PRO | 65a75762 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:01:52] DUP_PRO | 65a75762 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:02:04] DUP_PRO | 6c1bf6b1 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:02:04] DUP_PRO | 6c1bf6b1 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:02:50] DUP_PRO | b5bd4b9b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:02:50] DUP_PRO | b5bd4b9b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:02:52] DUP_PRO | 89752498 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:02:52] DUP_PRO | 89752498 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:03:54] DUP_PRO | dbb8e9bd | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:03:54] DUP_PRO | dbb8e9bd | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:04:51] DUP_PRO | ed7cc585 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:04:51] DUP_PRO | ed7cc585 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:04:54] DUP_PRO | f6ffe768 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:04:54] DUP_PRO | f6ffe768 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:05:56] DUP_PRO | b413695c | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:05:56] DUP_PRO | b413695c | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:06:52] DUP_PRO | 4f828f95 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:06:52] DUP_PRO | 4f828f95 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:06:56] DUP_PRO | 1e00a112 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:06:56] DUP_PRO | 1e00a112 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:07:58] DUP_PRO | dd9d0c49 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:07:58] DUP_PRO | dd9d0c49 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:08:53] DUP_PRO | c57aa943 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:08:53] DUP_PRO | c57aa943 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:08:59] DUP_PRO | 5359765c | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:08:59] DUP_PRO | 5359765c | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:10:00] DUP_PRO | 8f5d0365 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:10:00] DUP_PRO | 8f5d0365 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:11:01] DUP_PRO | 0317e6e9 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:11:01] DUP_PRO | 0317e6e9 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:11:36] DUP_PRO | 90a2391f | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:11:36] DUP_PRO | 90a2391f | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:12:02] DUP_PRO | 0f0eefce | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:12:02] DUP_PRO | 0f0eefce | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:12:05] DUP_PRO | 5923ff85 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:12:05] DUP_PRO | 5923ff85 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:12:08] DUP_PRO | c726f3b3 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:12:08] DUP_PRO | c726f3b3 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:13:03] DUP_PRO | bd178329 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:13:03] DUP_PRO | bd178329 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:14:04] DUP_PRO | 379e0606 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:14:04] DUP_PRO | 379e0606 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:15:05] DUP_PRO | d65dc7f5 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:15:05] DUP_PRO | d65dc7f5 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:15:12] DUP_PRO | cf24dac1 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:15:12] DUP_PRO | cf24dac1 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:16:05] DUP_PRO | 0cae7e0d | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:16:05] DUP_PRO | 0cae7e0d | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:16:55] DUP_PRO | cba7785a | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:16:55] DUP_PRO | cba7785a | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:31] DUP_PRO | 5236e990 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:31] DUP_PRO | 5236e990 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:32] DUP_PRO | d4a29b3e | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:32] DUP_PRO | d4a29b3e | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:33] DUP_PRO | 1ffe489b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:33] DUP_PRO | 1ffe489b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:34] DUP_PRO | 1ffe489b | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:34] DUP_PRO | 1ffe489b | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:35] DUP_PRO | c9a7ab86 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:35] DUP_PRO | c9a7ab86 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:36] DUP_PRO | 4f33d928 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:36] DUP_PRO | 4f33d928 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:37] DUP_PRO | 846f0a8d | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:37] DUP_PRO | 846f0a8d | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:38] DUP_PRO | 7539b858 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:38] DUP_PRO | 7539b858 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:39] DUP_PRO | be656bfd | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:39] DUP_PRO | be656bfd | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:17:40] DUP_PRO | a88220a8 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:17:40] DUP_PRO | a88220a8 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:20:51] DUP_PRO | a96f53f9 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:20:51] DUP_PRO | a96f53f9 | DUP_PRO_Package_Runner::init() | File lock released 
+[30 Nov 09:21:02] DUP_PRO | 84320b51 | DUP_PRO_Package_Runner::init() | File lock acquired 
+[30 Nov 09:21:02] DUP_PRO | 84320b51 | DUP_PRO_Package_Runner::init() | File lock released 
